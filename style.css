@@ -22,12 +22,17 @@ body {
     margin: auto 10%;
 }
 
+section {
+    width: 50%;   
+}
+
 .left-side {
     flex: 1;
     color: white;
     text-align: left;
     align-items: center;
     padding: 2%;
+    font-size: 20px;
 }
 
 .right-side {
@@ -110,6 +115,7 @@ input  {
 }
 
 .main-title {
+    font-size: 40px;
     font-weight: 700;
 }
 
